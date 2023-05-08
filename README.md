@@ -12,6 +12,7 @@ Client:
 2) Displays the information given by the server to the screen and asks user to enter a letter.
 3) If user finds the word or exceeds the allowed number of attempts, client displays respective message and terminates its execution.
 
+-------------------------------------------------------------------
 
 This repository contains:
 - Game dictionary (.txt file)
