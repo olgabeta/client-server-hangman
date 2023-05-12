@@ -1,4 +1,4 @@
-# Client-server hangman project in Advanced Programming course
+# Client-server hangman project in ADVANCED PROGRAMMING uni course
 
 In this group project, we were asked to implement a TCP/IP client-server program in C where the client would be playing the hangman game with the server.
 
